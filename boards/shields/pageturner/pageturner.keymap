@@ -5,9 +5,7 @@
     keymap {
         compatible = "zmk,keymap";
         default_layer {
-            bindings = 
-                &kp PG_UP  &kp PG_DN  &kp UP  &kp DOWN
-            >;
+            bindings = <&kp PG_UP  &kp PG_DN  &kp UP  &kp DOWN>;
         };
     };
 };

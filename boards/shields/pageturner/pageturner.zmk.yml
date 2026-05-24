@@ -1,0 +1,5 @@
+file_format: "1"
+id: pageturner
+name: Page-turn-o-matic 2026
+type: shield
+requires: [seeed_xiao]
